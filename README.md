@@ -2,6 +2,8 @@
 
 Full-stack engineer.
 
+## About Me
+
 - 🏢 Previously at Clave
 - 🏢 Previously at Meta
 - 🎓 MSc from Istanbul Technical University (İTÜ)
